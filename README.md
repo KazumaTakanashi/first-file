@@ -1,6 +1,3 @@
-# first-file
-TACH-BASEにて作成
-<br>
 <!DOCTYPE html>
 <html lang="ja">
 <head>
